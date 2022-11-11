@@ -30,5 +30,7 @@ int main(void){
         }
     }
     cout << dist[n-1][m-1]+1;
+
+    return 0;
 }
 
